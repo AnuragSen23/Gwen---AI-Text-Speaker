@@ -3,8 +3,10 @@ This is a python based program designed to make online tasks easy. It is capable
 
 
 The following python modules were employed-
-•	pyttsx3 (python text to speech)
 
+
+
+•	pyttsx3 (python text to speech)
 
 
 
