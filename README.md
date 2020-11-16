@@ -8,7 +8,5 @@ The following python modules were employed-
 
 •	pyttsx3 (python text to speech)
 
-
-
 •	PyPDF2 (python pdf reader)
 
